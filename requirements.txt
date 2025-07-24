@@ -1,0 +1,6 @@
+flask
+streamlit
+pytesseract
+Pillow
+PyMuPDF
+scikit-learn
